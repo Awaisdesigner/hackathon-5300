@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.nav-link{
+    margin: 11px;
+    color: white!important;
+}
+
+.btn{
+    color: white!important;
+}
+
+.hov:hover{
+background-color: rgb(199, 203, 0)!important;
+border-radius: 10px;
+color: black!important;
+}

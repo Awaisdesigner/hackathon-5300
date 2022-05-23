@@ -1,0 +1,29 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#styletext {
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.box {
+    height: 130px;
+    width: 200px;
+    border: 1px solid blacks;
+    background-color: azure;
+
+}
+
+.box i {
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.styleTag{
+    text-decoration: none;
+    font-size: 12px;
+    display: block;
+}
